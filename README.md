@@ -16,13 +16,13 @@ The e-commerce business is quite popular today. Here, you do not need to take or
 
 ### Built with
 
-* Python 3.9.7
-* scikit-learn 1.0.2
-* xgboost 1.5.1
-* numpy 1.22.0
-* nltk 3.6.7
-* pandas 1.3.5
-* Flask 2.0.2
+* Python 3.10.12
+* scikit-learn 1.6.1
+* xgboost 3.0.5
+* numpy 2.2.6
+* nltk 3.9.1
+* pandas 2.2.3
+* Flask 3.1.2
 * Bootstrap CDN 5.1.3
 
 ### Solution Approach
